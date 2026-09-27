@@ -48,6 +48,7 @@ Through this project, I learned:
 
 ```bash
 python main.py
+```
 
 ## Screenshots
 
@@ -58,6 +59,14 @@ python main.py
 ### Completed Task
 
 ![TaskFlow Completed](screenshots/taskflow-completed.png)
+
+### Edit Task
+
+![TaskFlow Edit Task](screenshots/taskflow-edittask.png)
+
+### Save Edited Task
+
+![TaskFlow Save Edit](screenshots/taskflow-saveedit.png)
 
 ## Future Improvements
 
